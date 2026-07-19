@@ -5,10 +5,10 @@
   "version": "1",
   "games": [
     {
-      "path": "games/new-game/game.json"
+      "path": "games/000500001010ed00/game.json"
     },
     {
-      "path": "games/new-game-2/game.json"
+      "path": "games/00050000101c9500/game.json"
     }
   ]
 }
