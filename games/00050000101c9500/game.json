@@ -1,0 +1,26 @@
+{
+  "name": "Zelda Breath Of The Wild",
+  "titleIds": [
+    "00050000101C9500"
+  ],
+  "mods": [
+    {
+      "id": "new-mod-2",
+      "name": "Fully Marked Map",
+      "type": "mod",
+      "version": "1",
+      "author": "Moi",
+      "description": "Adds Koroks/Shrines/Chests and Boss Enemy markers to the Sheikah Slate overworld map textures under specific conditions. Must be zoomed in to maximum level, and must have surrounding areas unlocked from surrounding towers.",
+      "download": "https://gamebanana.com/mods/download/676477#FileInfo_1714437"
+    },
+    {
+      "id": "new-mod-3",
+      "name": "10x Paraglider speed and no stamina drain",
+      "type": "mod",
+      "version": "1",
+      "author": "Moi",
+      "description": "10x Paraglider speed and no stamina drain",
+      "download": "https://gamebanana.com/mods/download/674524#FileInfo_1692660"
+    }
+  ]
+}

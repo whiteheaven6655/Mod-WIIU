@@ -1,0 +1,17 @@
+{
+  "name": "Mario Kart 8",
+  "titleIds": [
+    "000500001010ED00"
+  ],
+  "mods": [
+    {
+      "id": "new-mod",
+      "name": "MarioKart Galaxy",
+      "type": "mod",
+      "version": "1",
+      "author": "moi",
+      "description": "mariokart galaxy",
+      "download": "https://gamebanana.com/mods/download/654987#FileInfo_1697272"
+    }
+  ]
+}

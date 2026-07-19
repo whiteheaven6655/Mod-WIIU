@@ -1,0 +1,14 @@
+{
+  "formatVersion": 1,
+  "name": "REPO1",
+  "author": "Moi",
+  "version": "1",
+  "games": [
+    {
+      "path": "games/new-game/game.json"
+    },
+    {
+      "path": "games/new-game-2/game.json"
+    }
+  ]
+}
